@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Jhony Freitas 🤓🖥
 
 
-Sou um desenvolvedor Front-end júnior em busca de oportunidades de empregos e acima de tudo em busca de conhecimento e aprendizado.\
+Aqui você encontrará alguns dos meus projetos, espero que gostem!!!\
 Hablidades técnicas:\
 HTML5, CSS3, Javascript, React, MySQL
 
