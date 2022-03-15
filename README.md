@@ -2,8 +2,6 @@
 
 
 Aqui você encontrará alguns dos meus projetos, espero que gostem!!!\
-Hablidades técnicas:\
-HTML5, CSS3, Javascript, React, MySQL
 
 #
 
