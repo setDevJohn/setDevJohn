@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Jhony Freitas 🤓🖥
 
 
-Aqui você encontrará alguns dos meus projetos, espero que gostem!!!\
+Aqui você encontrará alguns dos meus projetos, espero que gostem!!!
 
 #
 
