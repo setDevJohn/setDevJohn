@@ -35,7 +35,7 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
 ### 📞 Quer trabalhar comigo ou entrar em contato? Vou deixar minhas redes com você.
 <br/>
  
-<a href = "mailto:jhony00._@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href ="mailto:jhony00._@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jhony-freitas-4200ab195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 #
