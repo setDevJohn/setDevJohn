@@ -36,10 +36,10 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
 <br/>
  
 <p align="left"> 
-<a href="https://discord.com/users/jhonyFreitas#1359" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/_jhonyfreitass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/jhony-freitas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/jhony-freitas/" target="_blank" rel="noreferrer"><img src="email.svg" width="40" height="37" /></a>
+<a href="https://discord.com/users/jhonyFreitas#1359" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="35" /></a> 
+<a href="http://www.instagram.com/_jhonyfreitass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="35" /></a> 
+<a href="https://www.linkedin.com/in/jhony-freitas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="35" /></a>
+<a href ="mailto:jhony00._@hotmail.com" target="_blank" rel="noreferrer"><img src="email-icone.png" width="40" height="35" /></a>
 </p>
  
 <a href ="mailto:jhony00._@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
