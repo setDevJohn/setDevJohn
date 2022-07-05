@@ -18,7 +18,9 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
 </div>
 <br/>
 
-## 🛠 Skills
+ #
+ 
+### 🛠 Skills
 <br/>
 
 <p align="left">
@@ -27,13 +29,18 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
+ 
+#
+ 
+### 📞 Quer trabalhar comigo ou entrar em contato? Vou deixar minhas redes com você.
 <br/>
  
-## 📞 Quer trabalhar comigo ou entrar em contato? Vou deixar minhas redes com você.
+<a href = "mailto:jhony00._@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jhony-freitas-4200ab195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-<div>  
-  <a href = "mailto:jhony00._@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhony-freitas-4200ab195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+#
+ 
+<div>
  
 ![Snake animation](https://github.com/jhonyfreitasdev/jhonyfreitasdev/blob/output/github-contribution-grid-snake.svg)
 
