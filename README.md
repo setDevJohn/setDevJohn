@@ -7,7 +7,7 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
 #
 
 ### Acesse meu portfólio aqui. 👇🏻
-[Portfólio - Jhony Freitas](https://jhonyfreitasdev.github.io/portfolio-jhony-freitas/)
+[Portfólio - Jhony Freitas](https://portfolio-jhony-freitas.vercel.app/)
 
 #
 
