@@ -28,7 +28,9 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
  <img src="icon-react.png" width="40" height="35" />
+ <img src="icon-styled.png" width="40" height="35" />
  <img src="icon-git.png" width="40" height="35" />
+ <img src="icon-jest.png" width="40" height="35" />
  <img src="icon-vscode.png" width="40" height="35" />
  <img src="icon-msql.png" width="65" height="35" />
 </p>
