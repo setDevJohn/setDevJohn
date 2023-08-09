@@ -24,15 +24,18 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
 <br/>
 
 <p align="left">
+<a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank" rel="noreferrer"><img src="icon-react.png" width="40" height="35" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icon-ts.png" width="60" height="35" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="icon-redux.png" width="46" height="35" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
- <a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank" rel="noreferrer"><img src="icon-react.png" width="40" height="35" /></a>
- <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="icon-styled.png" width="40" height="35" /></a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="icon-git.png" width="40" height="35" /></a>
- <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"><img src="icon-jest.png" width="40" height="35" /></a>
- <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" rel="noreferrer"><img src="icon-vscode.png" width="40" height="35" /></a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="icon-msql.png" width="65" height="35" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="icon-sass.png" width="65" height="35" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="icon-styled.png" width="40" height="35" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="icon-git.png" width="40" height="35" /></a>
+<a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"><img src="icon-jest.png" width="40" height="35" /></a>
+<a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" rel="noreferrer"><img src="icon-vscode.png" width="40" height="35" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="icon-msql.png" width="65" height="35" /></a>
 </p>
  
 #
