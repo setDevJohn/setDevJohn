@@ -56,6 +56,6 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
  
 <div>
  
-![Snake animation](https://github.com/setDevJohn/setDevJohn/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/setDevJohn/setDevJohn/blob/output/github-contribution-grid-snake.svg)
 
 </div>
