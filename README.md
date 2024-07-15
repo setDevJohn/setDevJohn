@@ -13,8 +13,8 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
 
  <div>
   <a href="https://github.com/jhonyfreitasdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonyfreitasdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyfreitasdev&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=setDevJohn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setDevJohn&layout=compact&langs_count=6&theme=radical"/>
 </div>
 <br/>
 
