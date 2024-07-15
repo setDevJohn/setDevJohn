@@ -1,7 +1,7 @@
 # Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me chamo Jhony Freitas 👦🏻 
 <br/>
 
-### Desenvolvedor Front-End Jr.<br/><br/>Bem-vindo(a) ao meu repositório 🖥🚀
+### Desenvolvedor FullStack.<br/><br/>Bem-vindo(a) ao meu repositório 🖥🚀
 Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
 
 #
@@ -56,6 +56,6 @@ Aqui você encontrará alguns dos meus projetos, espero que gostem!!!🖖🏻
  
 <div>
  
-![Snake animation](https://github.com/jhonyfreitasdev/jhonyfreitasdev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/setDevJohn/setDevJohn/blob/output/github-contribution-grid-snake.svg)
 
 </div>
