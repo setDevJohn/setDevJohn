@@ -4,12 +4,10 @@
 ## 📚 Sobre mim  
 Desenvolvedor Full Stack, atualmente cursando Análise e Desenvolvimento de Sistemas (conclusão prevista para final de 2025). Possuo experiência prática em desenvolvimento web e amplo conhecimento em tecnologias como TypeScript, React, Express, Prisma, entre outras. Meu foco é criar soluções práticas e essenciais, sempre com atenção à qualidade do código e à experiência do usuário, transformando necessidades em soluções inovadoras.
 <br />
-#
 
 ## 🔗 Portfólio  
 Você pode conferir mais detalhes sobre meus projetos e minhas habilidades no meu portfólio online:  
 [Portfólio - Jhony Freitas](https://johndevstudio.com)
-#
 
 ## 💻 Habilidades  
 Aqui estão algumas das tecnologias que domino:
@@ -20,7 +18,11 @@ Aqui estão algumas das tecnologias que domino:
 Sempre me atualizando, estou aprofundando meus conhecimentos em:
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,cs,php,vue)](https://skillicons.dev)
-#
+
+<div style="display: flex; justify-content: space-evenly;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=setDevJohn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setDevJohn&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
 ## 🤝 Contato  
 Gostaria de trabalhar comigo ou conversar sobre tecnologia? Aqui estão minhas redes sociais:
