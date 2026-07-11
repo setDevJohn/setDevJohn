@@ -9,10 +9,10 @@ Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas. Pos
 Você pode conferir mais detalhes sobre meus projetos e minhas habilidades no meu portfólio online:  
 [Portfólio - Jhony Freitas](https://johndevstudio.com)
 
-## 💻 Habilidades  
+## 💻 Habilidades
 Aqui estão algumas das tecnologias que domino:
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,javascript,typescript,redux,tailwind,sass,styledcomponents,html,css,nodejs,express,prisma,postman,postgres,mysql,git,jest,vite,vscode,npm,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,styledcomponents,redux,nodejs,express,nestjs,prisma,mongodb,postgres,mysql,docker,kubernetes,rabbitmq,git,jest,vite,postman,figma,linux,nginx,npm)](https://skillicons.dev)
 
 ## 🚧 Em estudo  
 Sempre me atualizando, estou aprofundando meus conhecimentos em:
