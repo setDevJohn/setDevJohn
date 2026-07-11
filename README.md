@@ -2,7 +2,7 @@
 **Desenvolvedor FullStack**  
 
 ## 📚 Sobre mim  
-Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas. Possuo experiência prática em desenvolvimento web e amplo conhecimento em tecnologias como TypeScript, React, Next, Express, Prisma, entre outras. Meu foco é criar soluções práticas e essenciais, sempre com atenção à qualidade do código e à experiência do usuário, transformando necessidades em soluções inovadoras.
+Desenvolvo aplicações web, APIs e sistemas que vão além de simplesmente funcionar. Meu foco é criar soluções organizadas, escaláveis e fáceis de evoluir, sempre entendendo primeiro o problema para então escolher a melhor tecnologia. Acredito que crescer como desenvolvedor significa nunca se acomodar, e é isso que me motiva a buscar constantemente novos desafios e formas de entregar mais valor em cada projeto.
 <br />
 
 ## 🔗 Portfólio  
